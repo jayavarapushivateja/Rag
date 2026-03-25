@@ -1,0 +1,1383 @@
+=== CampusX — What is Deep Learning? — https://youtube.com/watch?v=fHF22Wxuyw4 ===
+
+[0:00] Hello guys my name is this thank you
+[0:02] Welcome to my YouTube channel if you like.
+[0:05] You will remember the last video I announced
+[0:06] I had decided to start developing on my channel.
+[0:09] Today we will be the ones who paste.
+[0:13] People hide details of development course
+[0:15] Will start the one who will be the first
+[0:17] Videos and before starting videos
+[0:20] Let me give you all a little introduction
+[0:22] What will we cover in this video now 100
+[0:24] Samsung 1060 and I decide
+[0:26] Have done that this course is absolutely
+[0:28] But if there is a family then it will be from the side only.
+[0:32] Simple, we start with one subscription
+[0:34] Will do our choli contact no off in this
+[0:35] Will add Today's brother and I want you to know
+[0:39] Everything about step learning morning office
+[0:42] The title of today's video is what is
+[0:44] Deep learning that if you don't back it at all
+[0:47] And if you enter this appeal for the first time then this
+[0:49] By watching the video you will understand that
+[0:51] What is deep learning and its origin
+[0:54] Apart from this, you have also done another topic which
+[0:57] That's what I covered in this video.
+[0:59] that in the midst of developing machine learning
+[1:02] What's the difference? Okay, four or five different in the morning.
+[1:04] I will tell you the difference on points.
+[1:07] Many medical and practical aspects
+[1:09] And after that do many more in one last topic
+[1:11] Deep Learning Rafi is in this video
+[1:15] Being so famous and cute means deep learning.
+[1:18] It is Aryan who is behind the success, I am fine.
+[1:21] This topic is just because of the match
+[1:24] The daughter of the hands in the plate, in the field
+[1:26] If you enter then you have a complete
+[1:28] Have perspective that this is the way things are
+[1:31] Why is it that way and what is behind it?
+[1:33] Reaction from ticket goodbye you in this video
+[1:36] Once you watch this video completely, then
+[1:39] You have a difficult landscape today.
+[1:42] You will understand the rate in 2022
+[1:45] And this video is very good for you further.
+[1:48] I feel pregnant with
+[1:50] Introduction is enough, next video in the morning
+[1:53] We start from the beginning first.
+[1:56] Let me tell you what is deep learning
+[1:58] And I am the definition of learning in the heat of the moment.
+[2:02] If you go on the internet and if your type
+[2:05] If you do what is deep learning then you will
+[2:07] Mostly two types of definitions are shown
+[2:10] Okay, it will be a simple version.
+[2:13] And there will be a little technical definition of this
+[2:15] In the video I will tell you both the definitions
+[2:18] I am fine because both of you
+[2:20] Which will help in understanding
+[2:23] Our first definition is that on your screen
+[2:25] But it is where deep learning is written.
+[2:27] Apps now field of artificial intelligence
+[2:30] And machine learning.it is inspired by the
+[2:33] Structure of human brain is ok full
+[2:36] Slip Learning Algorithms Attempt to
+[2:39] Drops Similar Confusion and Human
+[2:42] resume for sport bike hours
+[2:45] science logical structure called neural
+[2:48] 2 parts definition if network is ok
+[2:51] Let's break down and focus on the slices.
+[2:53] If you are a first time SIM then it is understandable.
+[2:56] That deep learning is back here and
+[2:58] Machine Learning OK That Dry Diagram
+[3:01] Keep it in this program that will help you.
+[3:04] It is also written that the biggest umbrella
+[3:06] Time is within which everything comes.
+[3:09] artificial intelligence is ok
+[3:11] What is Artificial Intelligence?
+[3:14] Basically we humans have also discovered this where
+[3:16] Let's create intelligent machines like us
+[3:19] We want to pursue this for years
+[3:22] Maybe there have been shocks over the years and some development
+[3:26] The biggest development of which has also taken place
+[3:28] And machine learning is machine learning.
+[3:32] Basically now all the fields of hidden share where
+[3:36] What do you do
+[3:38] You take loan from data which is loan from data
+[3:43] 200 If you have a data then that data
+[3:48] If the input is
+[3:50] and the output is
+[3:52] So your machine learning algorithm
+[3:54] What is the work of converting input to output?
+[3:57] It's okay to figure out what's going on in a relationship
+[4:01] So machine learning is a soft side now
+[4:04] What is dip learning this obscene dance?
+[4:08] Machine learning where you can learn all the things
+[4:11] Perfect Machine But Be Like Butt Machine
+[4:15] The biggest dip in learning
+[4:17] The difference lies in the fact that the machine
+[4:19] Learning is statistical
+[4:22] depends on technique
+[4:26] Okay, so this relationship is for him.
+[4:27] Have to remove this between input and output
+[4:30] Machine to capture relationships
+[4:33] Learning Algorithms
+[4:34] Most Machine Learning Algorithms
+[4:36] Focus on statistical techniques
+[4:39] Where is your deep learning?
+[4:43] depends on logical structure
+[4:46] Which is called neural network and which
+[4:49] Neural network is inspired by
+[4:51] is a human prince
+[4:54] That computer scientist said friend if
+[4:56] If we want to make intelligent things then let's
+[4:59] Get Inspired by the Most Intelligent
+[5:01] Thing on earth human beans human being which
+[5:05] The way you think about stitching
+[5:08] Let's do those tests and create algorithms.
+[5:12] Jones should map that thinking in this way.
+[5:16] If you can do it well then neural network is like this
+[5:19] Basically a Logical Truck Word Witch
+[5:21] Inspired by human brain ok and
+[5:26] This is the collection of algorithms that you can
+[5:28] collect daily points say
+[5:31] That doctor now I can't even give you a plan
+[5:36] Let me show you an example of a neural network.
+[5:39] Message moment Edison neural network is a simple
+[5:44] And light neural network for pimples
+[5:46] let's speak
+[5:47] artificial neural network ok now
+[5:51] Those who want to read more details about this
+[5:53] Let me give you a little introduction
+[5:55] I am an artificial neural network.
+[5:57] Basically a logical structure where your
+[6:01] Which is a fundamental unit, you can
+[6:04] perceptron
+[6:06] All the circles you can see are
+[6:09] perceptron and it connects to each other
+[6:12] There are foreign tours and these arrows are waiting for them.
+[6:15] let's speak
+[6:18] ok ok and
+[6:21] I call it layer, it's all layers
+[6:24] Which frees them from all problems in one line
+[6:27] you say layer
+[6:29] This is fine with all the layers, now from here you
+[6:32] remain input
+[6:35] And from here you get votes.
+[6:38] I am very fond of your children.
+[6:40] Description given in front, now in layer
+[6:43] The place from which you get support
+[6:44] You say input layer and the place from where you get
+[6:48] The one who gets salvation is called the output layer.
+[6:50] Yes, now you can add any number in between.
+[6:54] There are two here but you can add any number.
+[6:56] yes, they are called freedom layer, ok
+[6:59] In fact it is the front part that is deep
+[7:02] Lama is learning from this thing.
+[7:04] How many hidden letters do you have?
+[7:07] If there are a lot of Hitlers in between then
+[7:10] This is this, this is the entire network, this is the dip.
+[7:13] If you want then the details were violence in
+[7:16] Deep learning is ok so now in your mind
+[7:20] The question may be coming that we have only one
+[7:22] type of neural network or
+[7:24] Tera Different Times So Dahan Service Ki
+[7:27] Crack Different Types of Neural Networks
+[7:29] This was done by typing just one thing.
+[7:34] Such is against the simple one
+[7:37] which jewelery
+[7:40] That
+[7:41] neural network ok there is a face thing
+[7:45] arm recurrent
+[7:49] that neural networks are much more than just
+[7:52] All different types of neural networks
+[7:54] which are used to solve different problems
+[7:56] Like conventional ear electronics image
+[7:59] Works great on data
+[8:01] Speech which is about similar
+[8:05] That time is very good over textual data.
+[8:08] Knowledge that works generates things.
+[8:11] Can do
+[8:12] ok can generate text on like
+[8:17] that can generate me this very
+[8:19] Interesting, okay, in this way you can get more
+[8:22] lots of neural networks to study
+[8:24] You will meet in this course but till now this
+[8:26] Question arises on its basis.
+[8:28] I hope the dating apps update machine is installed
+[8:31] So it means the machine that does deep learning.
+[8:34] does the same thing, just does it differently
+[8:37] ok what is the work input and output
+[8:38] Difficult to find relationship between
+[8:41] Now Machine Learning in Supervisor Learning
+[8:44] CERTIFICATE TECHNIQUES USE TO WORK
+[8:46] does and what deep learning is is a logical
+[8:51] Structure follows which neural
+[8:53] Network speak and this neural network
+[8:55] are designed in such a way that they are human
+[8:57] brain type of skoda rapid
+[8:59] Why did computer scientists think so?
+[9:01] Vikas Debit that if you want intelligent machine
+[9:04] Have to create e-was not copy human brain which
+[9:08] The most advanced form of intelligence on earth is
+[9:12] Now it looks something like what I did
+[9:14] Described before you which is the simplest
+[9:16] Neural network exists but we understand this
+[9:19] that apart from this there are many other neural
+[9:23] There are networks which we gradually
+[9:25] We will study the course one by one, ok now
+[9:27] I have understood everything till now, now the question is
+[9:30] It comes and should also come to your mind that
+[9:34] virus deep learning gating
+[9:39] meaning in this
+[9:43] between the motors by rotating the reverse entry
+[9:46] I can hear it pretty much everywhere
+[9:49] What is its revision visible?
+[9:51] What has Deep Learning done due to which
+[9:54] Deep learning is getting so much
+[9:56] If deep learning becomes so famous
+[10:00] The first event is the two major research behind
+[10:04] Applicability of
+[10:08] that applicability of
+[10:11] Okay, so I understand what he means and
+[10:14] second division who are you
+[10:18] I mean your show of creativity
+[10:22] that the deep learning algorithms are a
+[10:25] Well applicable in very large domains
+[10:28] Meaning Deep Learning of You Don't Believe is very
+[10:32] Works for all videos like
+[10:35] Computer vision is done you grind and mission
+[10:37] Natural language processing is done.
+[10:40] machine translation
+[10:42] bioinformatics dress design medical
+[10:45] Image Climate Science Material Inferences
+[10:48] boardgames programs any of these
+[10:51] You can apply your learning in any field also.
+[10:54] The performance here is weaker than anything else.
+[10:57] Man then he took my name here
+[11:01] The performance of planning has also been
+[11:04] Okay these flights are tearing you apart
+[11:08] State-of-the-Art Results Deep Learning
+[11:10] not provided
+[11:13] The vitamins you couldn't overcome
+[11:18] In a few days the middle learning refused.
+[11:20] The performance of tumor exports
+[11:23] I have also tweeted that it is a dream defect.
+[11:25] You must have heard that Goal is quite a famous Chinese game.
+[11:29] Where oil or round it out that one you
+[11:35] Jogna World Champion in this event
+[11:39] Beat him four times in 5 games ok and
+[11:44] There are also many types of schedules where
+[11:47] You will see that the state-of-the-art of deep learning
+[11:49] Art form is coming and tumor
+[11:52] send exports
+[11:54] he's leaving them behind okay short
+[11:57] Dresses Switch to Battery Saver Mode Today
+[12:00] Deep learning gets so much tension in debt
+[12:03] Computer Science from Software Committee
+[12:05] minute it's ok so you lots of examples
+[12:08] You will see that the whole driving car is done
+[12:13] Joe Trucks Medical Today's Date
+[12:16] You are becoming one in science.
+[12:18] New research in the field of chemistry
+[12:22] Pregnant by Deep Learning which embraces you
+[12:25] I will make a video and I will tell you a lot about it.
+[12:28] I will tell you different types of applications where
+[12:31] The particular has left its impact but
+[12:34] Now just understand that deep learning
+[12:36] Yesterday in this frame has come which is going sir
+[12:39] He came because of two things, firstly that deep
+[12:44] Learning algorithms designed in this manner
+[12:46] That it can be applied to avoid to
+[12:50] Knower of problems and second performance
+[12:52] Wherever it is being applied here
+[12:55] But his performance was state-of-the-art
+[12:58] is absolutely
+[13:00] That by passing the pleas human export sir
+[13:03] going ok so much more than that then
+[13:06] A reputation builder app is great for learning
+[13:09] So let me give you a little introduction.
+[13:11] Now I understand what deep learning is.
+[13:14] free move a little further this video
+[13:16] in in
+[13:17] I
+[13:18] I told you in the beginning that I
+[13:20] I will tell you the definitions and superhit decorations.
+[13:24] See which is very common with definition
+[13:26] Don't Want to Ask Lightly Technical
+[13:29] definition and definition off screen
+[13:32] It is written here that deep learning is a
+[13:35] Part of a Broder Family for Machine
+[13:37] Learning method which is a data artificial
+[13:40] Neural Networks with Representation
+[13:43] Learning is ok after that it is written that
+[13:46] Deep Learning Algorithms Use Multiple Lessons
+[13:49] To Probably Extract Higher Levels
+[13:52] Features from rate and important for
+[13:55] Example in Image Processing
+[13:57] S White Hairs Identified in Lewis
+[14:01] Identify the Concept Relative in *
+[14:04] Human Truth Judges and Latest
+[14:07] Officer advance to camp in this definition also
+[14:10] Parts its focus on the first world ok
+[14:14] That's all in the previous definition of 500.
+[14:17] Told that this is under machine learning.
+[14:19] And here comes Artificial Neural Networks
+[14:22] Rahul is the butt here one
+[14:25] centers and is written an award of and
+[14:27] Written today representation learning ok
+[14:30] So according to this definition deep learning
+[14:34] Does representation learning or its
+[14:37] 9th question depends on this kiwi
+[14:40] what is presentation learning ok
+[14:42] Suit Rashmi if you want to enter the degree
+[14:45] If yes, then you should learn representation learning.
+[14:46] Must be understanding I in fact
+[14:49] Let me show you 200 This is the Wikipedia
+[14:53] Page of representation learning is ok
+[14:56] Here it is written to you in Machine Learning
+[14:58] Feature Learning and Representation Learning
+[15:01] Both are the same thing, it is setup technique date.
+[15:04] Alarms and systems to automatically discover
+[15:06] Representations Made After Deduction and
+[15:10] Classification from Noida This Replacement
+[15:13] Alsisar Engineering Channel Vastu Sammat
+[15:16] Into Brothels Andar Free Ki And Used To
+[15:18] Perform a Specific Pass Torsion Makes You Easy
+[15:22] If I explain the year then if you have used the machine
+[15:25] If you feel that I have done even a little work, then you
+[15:26] You must know that there is something which
+[15:28] you speak then words
+[15:31] setting
+[15:33] feature
+[15:35] Extraction or you teacher engineering
+[15:38] You can also speak, so what about that process?
+[15:42] I do that you create features
+[15:45] Let me give you an example so that you can get a dog
+[15:48] Making cat classifieds where if you have a
+[15:52] If you are given an image, you will see it optimally.
+[15:56] Let me tell you that there is a dog in it
+[15:59] Is it cat or if this is the problem with your machine
+[16:02] If you go to solve it by learning then you will
+[16:05] Manual features will have to be created
+[16:08] How can teachers be like size one?
+[16:12] The feature is that if the size is big then it is dough
+[16:15] If it's a size then it's a cat and it's a color.
+[16:18] candy features and whatever physical attributes
+[16:22] All these features can be made but you will not need this
+[16:25] The thing we have to understand is that machine learning is
+[16:28] You have to create and provide features yourself.
+[16:31] Machine Learning Algorithms But Deep Learning
+[16:35] What happens in this whole process
+[16:38] It is automated, meaning you can use this method
+[16:41] You don't make news and just give images.
+[16:43] He used to provide it in the right format and
+[16:45] Your deep learning algorithm automatically
+[16:48] Extracts features ok
+[16:51] If it is okay on intelligence then this is what it said
+[16:54] Goes to the beach where presentation takes place
+[16:56] Automatic feature extraction happens in your
+[16:59] If the problem is ok with your data then this
+[17:01] There is one more thing to understand and in the future we will also
+[17:04] Will discuss this in deep admin
+[17:06] He doesn't need switching engineering.
+[17:09] Automatically your algorithm from your data
+[17:11] If you define seconds
+[17:15] If you mode in then it is written here that deep
+[17:17] Learning Algorithm Use Multiple Less It
+[17:20] have seen the quality
+[17:22] That Progressively Extra at Higher Levels
+[17:25] For teachers from Roy input example given
+[17:28] The time machine example will explain to you and this
+[17:31] This is part of the definition.
+[17:34] Deep learning tells important things
+[17:36] Deep learning is about algorithms
+[17:38] Algorithms and Basic Neural Networks
+[17:41] Layers are things in neural networks
+[17:44] Now the purpose of these layers is like
+[17:46] From If We Example A Dog Cat
+[17:49] What will happen to the classification that you
+[17:53] He does the image and you feed it from here.
+[17:56] Come pixel test you can find your data here
+[17:59] will submit on
+[18:00] Now every wave has a purpose and hence here
+[18:04] Your vote will be received whether it is a dog or a cat but this
+[18:08] Listen to the waves in between, they also have a purpose.
+[18:12] Layer Sanjana in the beginning he was a little primitive
+[18:15] Teachers will extract your data
+[18:17] Like if you are mixing cat and
+[18:21] Previous years test test
+[18:23] Well then if you're in it for the man
+[18:27] Go tujhe then some more complex features
+[18:29] Like shape will decide ok essence is this
+[18:32] Exiting properly from the next one
+[18:35] The shave is getting sweeter and then slowly you
+[18:38] And the further you go, the more
+[18:41] Will continue to create complex features such as
+[18:43] Space is written here once you
+[18:45] It's written in the neighborhood in these images
+[18:47] Processing Lower Levels Were Identified
+[18:50] A peon players were identified
+[18:52] Concepts Related to Much Graduate and
+[18:55] Latest and resisted so slowly you
+[18:59] If you identify the thing from here then start
+[19:01] Basics and Great Relief in
+[19:03] Take the complexities and venturi your result
+[19:05] If you give it in the end then this is the definition that
+[19:08] Explaining you two things again included
+[19:10] Do first deep learning users
+[19:14] Representation learning which means
+[19:17] The load of extracting features was
+[19:20] It's not up to you to do that machine yourself.
+[19:23] The algorithm is automatically taking seconds.
+[19:26] From the topper definition you learned that its
+[19:28] How does it work?
+[19:30] The way is that you tell in the input layer
+[19:32] Give and then come through the hayden lace
+[19:35] When you start editing, put it at the beginning
+[19:38] Let's select this trend and
+[19:41] The latter difference is your
+[19:45] Complex root extract
+[19:47] And tiffin box is ok now if I want
+[19:50] This one could tip the thing from this point
+[19:52] But I thought this might give you a little idea.
+[19:55] It should be in the beginning because later on we will
+[19:58] Going to discuss in detail again and again
+[19:59] So guys now we have a little idea
+[20:03] Now let us know what is typing?
+[20:06] Next we will discuss that deep learning and
+[20:08] What's the point in machine learning now?
+[20:10] The difference is that we only know this much at this point.
+[20:13] Deep learning is all about the field of machine learning.
+[20:16] Writing for Machine Learning Algorithms
+[20:19] By using tactical techniques, he
+[20:22] I do my work, what Raj Babbar did
+[20:25] That little human brain is the best one
+[20:28] logical structure which we call neural
+[20:31] If we talk about networks then now apart from that
+[20:34] What more points on practicality level and
+[20:37] If there is a difference then we are going to discuss it.
+[20:40] First of all I get points here
+[20:43] And this is the point on which we will talk.
+[20:46] Now I will do the last point first.
+[20:49] There is a difference between deep learning and machine
+[20:51] Learning is what deep learning is
+[20:55] He needs a lot of data
+[20:58] It happens
+[21:00] ok ok you comparison of machine learning
+[21:02] So if you are working on a problem
+[21:05] If you are doing it then you should decorate it only then.
+[21:09] You can apply if you have a lot of it
+[21:11] Data may make medicine possible through deep learning
+[21:14] a little bit noisy about things
+[21:17] A little more data is needed
+[21:19] Only after looking at more data your
+[21:22] Performance Hotel Deals Working Models
+[21:24] He is reliable if you look here
+[21:27] This is a very famous grass
+[21:30] Where the axis is the amount of data that you
+[21:34] Pass is available for training and
+[21:36] Your virus is performance and model and
+[21:40] If you grab this point in this graph this
+[21:44] Point: Suppose you have this much data, meaning
+[21:47] If the data is less but your machine
+[21:50] Learning models are given their performance
+[21:53] This graph is better than the planning model.
+[21:56] Saying that for less data on loot for
+[21:59] Les Data Albums
+[22:03] That stick as you take this Amavasya data
+[22:06] You come to see two things, the first thing is this
+[22:10] Machine learning model performance
+[22:12] Stagnate means if you
+[22:15] You are doing even more dad after the point.
+[22:18] So the performance of the model improves somewhat.
+[22:21] Well if you are not doing deep learning
+[22:24] Follow the increase of TMC's data.
+[22:27] Your performance is almost linear with
+[22:29] We are also improving, yes here
+[22:32] The thing to understand is that the deep data
+[22:35] Learning is data angry
+[22:39] ok ok and as the data increases
+[22:43] The linear LEE performance given by
+[22:48] Chicken is first of all different and second is very
+[22:52] big difference hardware so machinery
+[22:55] If you want to love models then you
+[22:58] By using CPU on your simple machine
+[23:01] Can train butt deep learning models
+[23:05] Very complex matrix inside
+[23:08] multiplication is going on
+[23:12] I have too many numbers so handle it
+[23:16] You need a GPU to do this
+[23:19] Graphical Processing Unit's OK
+[23:23] If you run on CPQ without you
+[23:26] So that your deep learning models
+[23:28] Decorating Model is It Will Run Slow
+[23:31] Okay, so the unit uses powerful GPS.
+[23:36] That Chicken with More Mirchi is where you can get it
+[23:39] Matric Result Gas Calculations
+[23:41] participants so hardware us little
+[23:45] coffee grows
+[23:47] i am india learning ok but the point is
+[23:51] That machine learning even in cheap hardware
+[23:55] Butt Machine Reddy Baby Models will work
+[23:58] To trend you need coffee hardware
+[24:00] Just like you need to switch to GPU
+[24:02] OK for graphic processing unit for
+[24:05] There is little point, there is training at Akhra in
+[24:09] Delhi with models of complaints
+[24:12] Hello friends and your model training time
+[24:15] Inside the Train Time
+[24:18] that this very high for
+[24:21] Machine Learning Center for these comparisons
+[24:24] Take this training time, ok then deposit
+[24:28] Free if you have a very large dataset
+[24:30] If you like developmental works then I will donate.
+[24:34] SIM is that people get weeks
+[24:36] The model is also good at trending and a
+[24:40] Sometimes I have heard that some stages have also been set up.
+[24:41] Recharge for some specific purpose
+[24:43] From which they become models in secret machine learning models.
+[24:46] To love this heartbeat
+[24:48] minutes
+[24:51] Yes, sometimes it may happen that you have to do something
+[24:53] I have marked the hours the model has to run.
+[24:55] That whole day, whole week machine
+[24:58] Trimming while the learning model is being trained
+[25:01] Time is very high in deep learning
+[25:03] If you talk about prediction time then phone
+[25:06] Prediction time is very important in deep learning.
+[25:09] is fast
+[25:11] why am i fast let you understand further
+[25:13] Will they opinion if you machine learning
+[25:15] If we talk about algorithms, then some algorithms
+[25:17] The preparation time is very slow in it like
+[25:20] that PM
+[25:21] Candidate who has done Algorithmic Reproduction
+[25:24] Activities that take a lot of time to do
+[25:26] For Machine Learning Prediction Time Where Is
+[25:29] but training time bandaging machine
+[25:32] There is less learning, a lot of fabric.
+[25:35] ok benefit point feature selection this
+[25:39] Had positive discussion about the point
+[25:41] We Discussed That Shabby Thing Called
+[25:45] Representation Learning A
+[25:49] that we just did the first 10 where
+[25:52] We learned that deep learning
+[25:54] Algorithms
+[25:55] Elements from within data automatically
+[25:58] they extract the features ok
+[26:03] Reddy if you work with the machine let me
+[26:06] Features to help you extract family
+[26:08] I will give you Pimple 200 something that day
+[26:13] A year ago we were on a resume best
+[26:16] were making a project
+[26:18] Resume was the best project where
+[26:21] Maximum I can also tell you the example Dainik Lucknow
+[26:23] That after looking at the content of the resume, we
+[26:26] It was to be printed that eat that child's
+[26:30] Will there be placement or not? We will know in the morning.
+[26:33] Now on the box when you put machine learning in it
+[26:37] What will you have to do if you approach?
+[26:39] Features you will get from inside this resume
+[26:42] Will read as extra as if it were a feature
+[26:44] can the mask of the twelfth
+[26:47] And the second puncture could be Tenth's demand.
+[26:51] Third feature could be number off
+[26:54] Achievements for a feature may be numbered off
+[26:59] Quality can be another feature of this course
+[27:04] After college you can create all these features and
+[27:10] Then you can get this test done
+[27:12] Will there be placement or not but hence this
+[27:15] Need tow man to make feature also
+[27:17] is exported
+[27:20] That I can do no good only by debating with you.
+[27:22] Will have to run away or with some teachers
+[27:24] If you have to sit, please tell me how.
+[27:27] You make teachers ok depending domain butt
+[27:31] If you do this project through deep learning
+[27:33] If you do then you will just need to submit your complete resume.
+[27:38] Algorithm to put the content in the right form
+[27:41] have to provide
+[27:43] That automatically features behind the scenes
+[27:46] will extract and test it
+[27:49] will give it to you ok then this is what is called
+[27:52] It's a representation girl and it's huge
+[27:55] There are benefits when using deep learning
+[27:57] Then I also gave you an example that
+[28:00] If you have that neural network is
+[28:02] And if you delay that one image then which starts
+[28:06] Those are the layers, they are simple for you
+[28:11] Simple P select with features
+[28:14] Let's start with primitive features and then
+[28:16] Contract teachers on the way
+[28:18] If strikes start happening automatically
+[28:20] Its developed diagram is but C if you
+[28:22] If you are giving this photograph then the one who started
+[28:25] This will be the first and second return layer
+[28:27] He will add low level features
+[28:30] Like Tejas but edit here
+[28:33] and then going in the middle
+[28:35] Some intermediate features like share and tight
+[28:39] Will start happening but separate CA and
+[28:41] While doing this, incidentally going to the last
+[28:44] High level features start being detected
+[28:47] Like a complete se a
+[28:50] ok ok so call it sage machine learning
+[28:52] Weakness Deep Learning Works On
+[28:56] Okay, so this is the third question.
+[28:58] automatically and i don't do anything it's this
+[29:01] It is completely designed in this way.
+[29:04] Network it all yourself and you can do it from here
+[29:07] and will move forward but this is also a very big
+[29:09] Contact lens is ok now last point
+[29:12] What is interpidity? What is campaign?
+[29:16] The judge made it clear that you
+[29:20] That teacher extraction is happening automatically
+[29:22] Have the features and extracted automatically
+[29:25] And I don't know what that feature is
+[29:29] which one i don't know me out
+[29:31] What happens if you don't understand that your
+[29:35] The model that comes nearby is interactive.
+[29:38] It wouldn't make sense if I did a dog vs.
+[29:43] CAT classified has been created
+[29:47] that in this kind of architecture I created
+[29:50] ok so its job is to make it like
+[29:54] A Gemini right there will tell me it's Dou
+[29:56] Or what now I told you already kiss
+[30:00] The first layer will work in some way
+[30:02] Primitive features will be explored further.
+[30:04] Will look for complex features in the printer
+[30:06] Whatever the leaves are, they are in a black box.
+[30:08] will kind of mean it won't tell me
+[30:11] Who saw what during that match?
+[30:14] This means that someone should ask him tomorrow
+[30:16] Please tell me why you called this image a dog
+[30:19] So I don't have any answer to this.
+[30:21] Don't have any answer ok so this is tablet
+[30:25] There is an issue of and this is a problem because thinking
+[30:28] Suppose you have a depleting model for
+[30:31] Are you training for social networking?
+[30:34] From the website where you comment
+[30:36] Can tell a user by looking at
+[30:40] yes
+[30:41] ok if you use deep learning
+[30:43] If you do then it will be commented and decided.
+[30:46] Will you decide whether to bank or not?
+[30:49] Said in tips that you can give sister to others
+[30:51] If it is banned then the user will ask you to check.
+[30:54] No brother, why bank, just tell me.
+[30:57] You have started developing model, do you know?
+[31:01] Will it not work because of the region?
+[31:03] Banned it in your algorithm and
+[31:07] subscribe this Video give little girls
+[31:11] matters in matters
+[31:12] Interactivity is important in many societies
+[31:15] Is held and placement sale is done there also
+[31:17] goes butt if you compare it machine
+[31:20] From learning to fish fish admin
+[31:22] Very integrated like
+[31:24] The one you are in love with is a senior model
+[31:27] Training a Logistic Regression Model
+[31:30] yes
+[31:30] Where CGPA is one column, AAI is another.
+[31:36] Is there a problem and will there be placement or not?
+[31:38] there will be another parent
+[31:41] Quarter also sub-logistic regression model
+[31:43] If you stop the train, then give two more grams of gram flour.
+[31:45] Bablu W is telling more details about this feature
+[31:48] ka and w its now this w1 and w
+[31:52] On the basis of value I can tell who
+[31:54] Which features are more important?
+[31:56] The feature is less important, so if tomorrow
+[31:59] Some child asked, tell me why?
+[32:01] Told me that if I don't get placed then I
+[32:03] Will say that only your W is very low
+[32:06] Means CGPA is very low
+[32:07] Doctors why not your placement
+[32:10] ok so one more in fish models
+[32:13] Decision tree can be used in exam
+[32:15] Proper decision-making takes place recently
+[32:18] Is
+[32:19] and get a slot like this
+[32:22] And this slow chart can tell you immediately
+[32:25] Why is a point called one 1.20
+[32:28] When it was said, here is the explanation
+[32:30] Do you have the ability or can you speak?
+[32:33] Interpidity is the deposit and this is Tulsi
+[32:37] It helps a lot here where you
+[32:39] Queen, do you want to tell the person in front?
+[32:42] If it is ok to give 180 then this part is soul toe
+[32:46] There are differences once the data is sunrise
+[32:49] Dependency is too much of deep learning
+[32:51] There is very little cost to buy the machine but the good thing is this
+[32:54] that deep learning increases as data grows
+[32:57] His performance is clearly very good
+[32:59] Scale becomes a matter of hardware
+[33:02] If you do then stay behind by default here
+[33:04] Why does it go because it is very strong
+[33:07] Hardness is GPO, complex is required
+[33:09] To send matrix multiplication
+[33:11] So this comment is Congress of Train Time
+[33:14] Talk about planning, it's slow, it's too much time.
+[33:17] It seems that these are the models to trend.
+[33:19] Comparison To Machine Learning Protection
+[33:21] Will cure dark spots Features
+[33:24] I have already told you the correction.
+[33:26] Representation but it is full of it
+[33:28] Features: cigarette gets fine and legs
+[33:31] What was the affair of the beginning latest small
+[33:33] Features are the latest updates
+[33:35] Have you understood all this? Plaster
+[33:38] Interpolated Planning This Plot A Message
+[33:41] Just send what you thought and decided
+[33:43] Only he knows, we cannot know him.
+[33:46] Because if we work at such a time
+[33:48] Here we are with the results
+[33:50] Explain why we have it on our website
+[33:52] Arrived That Deep Learning IS NOT A Good
+[33:54] Choice is ok, you have four or five things.
+[33:58] To read and understand these four five things
+[34:01] After this you will reach a computer machine
+[34:04] Deep learning cannot replace NE
+[34:08] Many people think or come to mind
+[34:11] That's different but so good and powerful
+[34:13] So those Tuesdays of learning in every
+[34:16] If there is a project then its result is that
+[34:20] Machine learning also planning in some things
+[34:23] And you heard an old saying
+[34:26] where a needle is needed
+[34:29] Same thing if you don't use sword there
+[34:31] Machine learning is the needle and deep learning
+[34:34] Now whether you want to sew your purse, clothes or
+[34:38] We have to kill people depending on the aa.
+[34:41] People will appeal to you to do the machine
+[34:43] If you need then you will understand this whole truth.
+[34:46] So till now we have read a lot of things
+[34:49] Recording also planning now we some
+[34:52] Will answer the question ok now when I
+[34:55] Deep learning was studying the process of reading
+[34:58] I had a question in my mind
+[35:00] Whatever planning you are doing now, you are becoming so famous.
+[35:04] I will give you the history after 12 videos.
+[35:07] I will teach you deep learning there you notice
+[35:10] Will you do that the work will be done on top of fighting the lamp
+[35:13] It seemed that it had started in 1968
+[35:16] ok ok come and during the times but
+[35:21] They were famous now they are around 1200 bola
+[35:26] It goes back to this and then things change.
+[35:29] So what kind of war has happened after 2010?
+[35:32] Your deep learning is so powerful from Delhi
+[35:35] Switch question became a famous technology
+[35:38] Answer: If you want then just multiple
+[35:41] region
+[35:42] ok so
+[35:45] that vehicles respond differently
+[35:48] I can tell you one by one
+[35:50] The first receiver to receive data sets is a
+[35:56] that we talk about this after a while
+[35:57] Will do the second region
+[36:01] AV Frameworks
+[36:05] had happened
+[36:10] is the third region
+[36:13] Architecture of these models
+[36:17] turn on
+[36:19] has happened
+[36:20] And the fourth thing is hardware.
+[36:29] and there is a last legion
+[36:33] a community a
+[36:38] Today we will talk about these five points
+[36:40] What will happen if you do this that you will get some
+[36:44] Perspective will be gained through deep learning which
+[36:46] It happens that companies do it in the industry.
+[36:48] What is the driving force behind it?
+[36:51] ok laptop for
+[36:54] I have already told this from the data.
+[36:58] Your Deep Learning is Data Hungary
+[37:02] That Ritesh Data Hungary means it's own
+[37:07] Lots of data to make predictions
+[37:09] ok after getting a lot of data
+[37:12] Only this noise can occur inside the data.
+[37:15] What if you talk about machine learning?
+[37:18] So even if you have a hundred drops
+[37:21] data set is
+[37:22] If you have any data set on it then you
+[37:26] You can get a model butt by training.
+[37:30] Not with Deep Learning Deep Learning should
+[37:34] If there are lakhs of rupees then this work will be done.
+[37:39] Now the good thing is that around 120
+[37:44] 12 revolutions came in our society
+[37:47] First came smartphone resolution
+[37:49] Revolution
+[37:53] and seconds first internet
+[37:57] The pricing resolution was from AYUSH because
+[38:00] Internet price was already greatly reduced.
+[38:03] Done if you remember 2015 round of 16
+[38:06] Reliance Jio entered the market and
+[38:08] To provide free high speed internet
+[38:11] felt and then these two things if you
+[38:13] If you combine it, everyone on earth
+[38:15] Have a smartphone with high speed internet
+[38:19] Connections that different apps now use
+[38:23] So after that many apps came Tik Tok
+[38:26] After that Snapchat and many other social
+[38:31] Media platforms what next?
+[38:33] What happened is that on a daily basis we spend a lot of time
+[38:37] started generating data
+[38:39] Ok ok Infosys I did a study
+[38:42] I had read that in human history when we
+[38:46] Since we started generating data
+[38:50] Till 2015 but if we have used X GB data
+[38:54] If we had generated then in 2015 to 2016 we would have
+[38:59] Generated 1GB data again
+[39:03] From 2015 to 2016 and from 2016 to 2017 we
+[39:07] 21 data generated from 2017 to 2018
+[39:11] We have generated forex tika it means
+[39:14] that which B time
+[39:17] Versus data generation has been ours
+[39:21] The explanation is going on and this hair is this
+[39:24] 2015 Ramdutt, after 2015 we will live in this way
+[39:28] If it is bigger than , then a lot of data is generated.
+[39:31] This is the first study that was not in 1968
+[39:35] ok but just by generating data
+[39:38] No work will be done, it's okay to think unnecessarily
+[39:40] See if you need an image classification
+[39:44] Have to create a system where by looking at the photo you
+[39:48] Can you tell me whether it has a dog or a cat in it?
+[39:51] So first you should get training for this
+[39:54] You will need more time to train your model.
+[39:56] But you need a lot of photos where even images
+[40:00] Yes and it is also mentioned that its
+[40:02] Is there a cat or a cow inside but answer data
+[40:06] Generate through your smartphone
+[40:09] A lot of data is generated at the same level
+[40:12] Data means you have posted photos on Facebook.
+[40:15] You uploaded papaya but you didn't this
+[40:18] Also told what would have happened if we returned to the country?
+[40:21] That in the industry you need someone to
+[40:24] create labels
+[40:27] And this is where this big company went like
+[40:30] Microsoft
+[40:32] Google Facebook What a great thing these people did
+[40:36] After spending all the money they have a lot
+[40:38] It was simple level data, right?
+[40:42] has converted it into level data
+[40:45] and then noticed that if we
+[40:49] If you keep all the data with yourself only
+[40:53] Perhaps researchers will not be able to progress that far.
+[40:55] If we make it open source then
+[40:58] What did they do by making these data sets public?
+[41:00] Superclick converted data set
+[41:03] Dataset is basically a dataset which any
+[41:06] can access and work on
+[41:08] If you can then when these public data sets come
+[41:11] Did you go to the market? Like in the market?
+[41:14] That further actual research on Twitter
+[41:17] Eat the research that is beneficial for deep learning
+[41:20] At the same time, due to public data sets, many
+[41:22] It happened fast, I would give you an example.
+[41:25] I am from a public dataset such as
+[41:28] If you talk about image data, its color
+[41:32] Change it if you are talking about MS Word data.
+[41:34] Do it by telling Microsoft
+[41:39] that is a data set that is used for image detection
+[41:42] There are many uses for it.
+[41:45] images and whatever is in those images
+[41:48] The objects are theirs in this way
+[41:50] Bonding boxes have been created and
+[41:52] Label what the object is
+[41:54] ok so very powerful data center
+[41:56] Very useful in object detection
+[41:58] ok talk about the video if you want then our
+[42:02] YouTube has 8 million data sets in which
+[42:07] Around Six Point One Million YouTube
+[42:11] The data of the videos is set as a reminder.
+[42:14] if you talk about tax phone text
+[42:18] There are very different types of data on Me Amar
+[42:20] One of which is data called squad by adding
+[42:23] 's heritage is basically a data from
+[42:27] wikipedia
+[42:30] That's around 1.5 lakh from Wikipedia
+[42:34] Find question answers from data
+[42:36] After that if you talk the audio will come.
+[42:41] So even in audio from different datasets
+[42:43] like google
+[42:45] is an audio set called data in which
+[42:50] around 20 lakhs
+[42:53] That's 20 lakh easy tips
+[42:57] which he removed from youtube
+[43:03] And Under More Than Six Darkness Chat Increase
+[43:08] So it's only in four-five
+[43:10] Examples given at today's rate
+[43:13] Thousands of public datasets will be available to you
+[43:19] Which is open source, use it
+[43:21] Can we meet at home or
+[43:24] He has his own website, you can find it here or
+[43:26] Then you Google it once and you will find this truth
+[43:29] and what happened after it came from the data
+[43:31] that research has become very easy
+[43:34] Because it is within everyone's power to create this from data.
+[43:36] It was not the case, so if you ask him about today's
+[43:40] Deep learning is so powerful in rate itself
+[43:42] Why is that the biggest reason for this?
+[43:45] Big Contributor Data from Bigg Boss
+[43:47] Ruby doesn't know deep learning without data
+[43:50] So according to me, we should push deep learning.
+[43:54] The largest second chapter in
+[43:57] Hardware Hardware means computing stack
+[44:00] Ok so let me explain this whole region
+[44:04] First of all you have to
+[44:06] Let me explain, ok, pestles.
+[44:09] Ammu there is a very big issue in computing
+[44:12] Don't know the first name of every birthday but only
+[44:15] The founder of is the founder of WhatsApp.
+[44:18] With intention he gave this gourd number
+[44:23] Transistors and Microchip Doubles Every
+[44:26] Two Years for the Cost of the Computer
+[44:30] This means that every two years you
+[44:35] Any one over the flip you turn over a chip
+[44:39] Chakli separately you take i7 and on top of that you
+[44:42] The number of transistors that can be installed
+[44:46] The number will double every two years and
+[44:51] The cost involved in making it
+[44:54] It will be halved, so if you notice,
+[44:58] Price of every commodity increases in the market
+[45:01] Hai But Electronic Store
+[45:04] Their price decreases means smart phones every
+[45:08] Come next year at a cheaper price and unlock
+[45:12] Talking About The Flagship Products But You
+[45:14] Look how cheap phones have become and what
+[45:17] It's performance, it keeps improving.
+[45:19] So the performance of the hardware is always
+[45:22] Will improve it gets the original slot and
+[45:24] That's why if you notice then I don't know you
+[45:27] What were people doing in 2005 2006?
+[45:29] Heartily in the phone that you wanted on time
+[45:32] There was 128 MB RAM, it was fine.
+[45:36] If you look at today's smartphone,
+[45:38] Phones with twelfth GB RAM are also coming
+[45:41] OK Tuteja Hardware Knack Revolution
+[45:44] are running and he is also continuing and he
+[45:47] Deep learning was pushed too much
+[45:50] If you are interested in learning then this is already done.
+[45:52] Know it means a lot of debt now back
+[45:56] A 10 matrix operation over off data is
+[46:01] If you read, you will see a lot of numbers.
+[46:07] data processing power to handle
+[46:09] Must if you use CPU
+[46:12] Is the height okay even after the training time?
+[46:16] Low speed will happen now that doctors 2010
+[46:20] metric operation of related alarms which is
+[46:24] or the multiplication of meters that I have to do
+[46:26] I'm Converted Into a Pearl Latest I
+[46:29] Can implement parallel processing
+[46:32] That I just like you an image
+[46:35] To hit a high quality image
+[46:37] Did panel processing to render dude
+[46:40] If there is a need and for that then people
+[46:42] If you use jeet then similar to this
+[46:46] We are also GPO for matrix operation.
+[46:48] Use Kewra, ok then go and do this 10
+[46:52] There was a split in the deep learning committee that now we
+[46:55] People will use GPS to train our
+[46:58] Neural Networks Cricket End at This Point
+[47:01] media
+[47:02] That she came and launched the kewra or that the dizer
+[47:06] program in programming language
+[47:08] Tips and then a resolution comes from this
+[47:11] Then everyone understood that we were going to burn Ravana.
+[47:14] Conventional CPU Let's Train Our Model On
+[47:18] The GPS is fine and since then these
+[47:20] There was stock of video, it was very pricey
+[47:23] Gone because no longer just buy glamorous
+[47:26] Your graphic card was now ours
+[47:30] Deep learning research was also graphics
+[47:34] Started using the card, today's rate in fact
+[47:36] If you approach deep learning in
+[47:39] You will have to buy a good machine which
+[47:42] It's okay to have a good GPU because a GPU
+[47:45] What does it do
+[47:48] 10-2-2013 By reducing the training time.
+[47:51] Gives these comparisons to all CPUs
+[47:55] ok ok that's a big difference
+[47:57] Ok so it's not just about GPU
+[48:00] It will stop ok like people did realice
+[48:02] That we get faster results from panel processing
+[48:06] If you can then there is a lot in this area
+[48:09] Research started and only more different types
+[48:12] Hardware started coming like one more thing
+[48:15] Earlier used to unite by saying ad drink
+[48:18] Add form fields
+[48:21] Programmable Get Hair Tips if you guys
+[48:23] someone from such a background
+[48:25] In engineering he probably
+[48:27] If you have heard the name then this is basically the program
+[48:29] It's an incredible controller, it's one of the best
+[48:32] What is great is that it is very fast
+[48:34] There are many people who run on power.
+[48:37] Are
+[48:39] are also re-programmable
+[48:43] and that custom solutions you can build on top of this
+[48:46] easy
+[48:47] You can place towels without any problem.
+[48:51] The character is very expensive
+[48:53] That if you have heard the name of this Ireland then
+[48:56] This is the leading manufacturer in today's date
+[48:59] Add this is also used a lot
+[49:02] Deep learning models to love and
+[49:05] Interest in micro fennel to run
+[49:08] Drink ads, they are very useful for you.
+[49:11] Search, which is an integral part of Microsoft
+[49:13] This part is mostly the engine.
+[49:16] is that thing happens on top of this okay so this
+[49:20] thing will happen, after this another thing came which
+[49:24] is called
+[49:25] 123 ICC its full form is application
+[49:29] The specific integrated circuit is ok at
+[49:32] These are also custom made lips, a little
+[49:34] It is expensive to design initially but
+[49:37] It's cheaper if you make it for a lot of people.
+[49:38] Then there are different types of things inside it.
+[49:42] Take it on one side like the first tube
+[49:45] You might have heard its name, its name is
+[49:47] tensor processing
+[49:50] is unit
+[49:51] That it was created by Google and it is a special
+[49:55] Hardware is deep learning moral support
+[49:57] Benefits to Google if you train
+[49:59] If you ever work in Google, it will benefit you.
+[50:02] Gives you the option to select tool on the left.
+[50:06] The code is fine then the thing that came is less than yours.
+[50:10] show
+[50:11] that age
+[50:13] That Tipu for its device is acid means now
+[50:17] The goal is to teach you about deep learning on a drone.
+[50:21] To close the model or you can turn on the watch
+[50:24] Want to run on smart watch or
+[50:27] If you want to run on smart class
+[50:29] In this type of setup you can use Http
+[50:32] can which is basically very small
+[50:35] It is a device on which you can perform calculations.
+[50:38] You can do it similarly in today's date
+[50:40] Many applications in smart phones
+[50:41] This is where machine learning has started coming.
+[50:44] If planning is used then entry for it
+[50:46] Energy These are further called neural
+[50:48] processing unit neural
+[50:51] processing unit of
+[50:54] Now their work is that your mobile
+[50:57] On devices that perform such operations
+[51:00] give them a plate
+[51:03] Okay, so if we take the example that
+[51:06] When and what kind of hardware can be useful?
+[51:09] Ayush is that if you are starting now
+[51:12] Just your deep learning Anjani and you will be very
+[51:14] If you do basic small projects then you
+[51:16] can work with seats if ok
+[51:19] You are training a big network, little
+[51:22] After playing the experience game then you
+[51:24] should shift to graphics card
+[51:27] Graphic art is a great way to
+[51:29] Will be found and like RTE Act Screen
+[51:32] A very good record of TRP has been achieved here.
+[51:35] But you can also use TPU that
+[51:38] If stuck on Designed Specifically For This
+[51:41] over your smart phone
+[51:43] I want to use deep learning inside my app.
+[51:46] If you want to use it then you can use it here
+[51:49] Can mobile CPU like
+[51:51] Snapdragon work or whatever mobile you use
+[51:55] There are many GPUs that you can use.
+[51:58] Those who want to use digital signal processing
+[52:00] You can do this or you can use MP which
+[52:03] I said it's okay if you're smart
+[52:07] a watch
+[52:08] Or machine learning on smart glasses
+[52:13] If you want to ramp up driving models then here
+[52:15] but you will use h
+[52:17] tube what i said this thing is ok
+[52:20] Or you can also use &piyush
+[52:23] Be different for 100 different requirements
+[52:27] Kind of waved butt it's the last ten
+[52:29] Over the years the focus shifted to what they can make
+[52:33] custom hardware
+[52:37] A for deep learning he just too much
+[52:41] Fasted Toddy Planning Research UK
+[52:44] Now it doesn't take that much time to love
+[52:46] The ticket in me is the overall research of the office.
+[52:49] That will be fast ok so hard ware
+[52:52] This is the second chapter which according to me is the third
+[52:55] The factor in which deep learning is most
+[52:57] More emphasis is given to the framework and
+[53:00] Library its development is ok look deep
+[53:03] Difficult to train learning models
+[53:06] there is work
+[53:08] That there is no doubt in this and if you
+[53:10] If you want to write from court scraps then
+[53:14] In the problem you are going to solve
+[53:16] Less time will be spent in creating its code.
+[53:19] If it takes more time then I will watch medium now
+[53:22] Like Rails who is behind the scenes of all this code
+[53:26] Handle and our Kamo Bus Library
+[53:28] It is ok to create your application using
+[53:31] Just like in scalper sited loan we
+[53:34] Problem solved with machine learning
+[53:36] Needle library like even in domain
+[53:38] Tytler that helps us in deep learning
+[53:40] If it's okay then today's date will be between two famous people.
+[53:44] libraries lineage tensorflow
+[53:50] i am bye google
+[53:53] Decades of Inventions Pytorch
+[53:55] facebook app after
+[53:58] and let me tell you a little history
+[54:00] I give
+[54:02] 2011: Google sees solid potential
+[54:05] Had taken deep learning method then those people
+[54:08] Special speech in some products
+[54:10] Want to use depending in products
+[54:12] The framework was built to listen internally.
+[54:16] by saying delete delete
+[54:19] That ticket was just one of the things that worked.
+[54:23] The problem was that it was very Google
+[54:25] It was attached to the product, so Google
+[54:29] Wanted to separate from work to do this
+[54:32] Bye he worked on a different occasions
+[54:35] Started and in 2015 he founded TensorFlow
+[54:38] Say release this library ok
+[54:41] Now there is TensorFlow and very powerful hybrid
+[54:45] This is a verified library and as soon as it arrived, it was perfect.
+[54:49] There was an explosion, everyone was there in the market.
+[54:51] Using TensorFlow
+[54:53] But gradually people accepted that
+[54:56] Tense people were very difficult users that
+[55:00] Fact became a joke on Google
+[55:03] I have created this library for myself.
+[55:05] Made for engineers because normal people
+[55:07] So humans are not able to use it.
+[55:08] People even said that if you
+[55:10] If you know how to use TensorFlow, then Google it.
+[55:13] It's so difficult to get your job
+[55:15] Okay, then only then reveal the secrets in that account.
+[55:18] A library was built which
+[55:21] Basically worked on top of TensorFlow
+[55:25] Means the crush used to talk to the user's secrets.
+[55:29] If we talk about tenth process then intermediate
+[55:30] He can speak in library basic front
+[55:35] And what happened after that rent?
+[55:38] These two became very popular
+[55:41] When in 2019 with combination voltage
+[55:44] When TensorFlow 2.0 came, it was glassed that if
+[55:48] TensorFlow is really available to everyone.
+[55:50] If you want to make it accessible then you have to make it accessible.
+[55:52] The way is to join the state
+[55:54] Since then Crush UK comes to Tensorflow
+[55:57] Okay, we have this combination in this course.
+[56:00] Will use another butt
+[56:04] That company Facebook also does not want to be left behind
+[56:07] I did it in 2016
+[56:09] pytorch
+[56:11] The shortcomings of starting a library by speaking
+[56:15] Also TensorFlow to solve it
+[56:17] I was trying it and it's something good
+[56:19] But egg research does not enter the technical team.
+[56:23] oh they were
+[56:25] He likes this library very much and today
+[56:27] If you look at the date of the research,
+[56:29] These are the people from the industry.
+[56:31] Research people use pytorch more
+[56:34] ok then in the same account 2018
+[56:37] In 2007 he added another library to EMU.
+[56:40] Caffeine two whose name was Pytorch worked.
+[56:43] Picking up models and deploying them on the server
+[56:46] And running on the server solid a lot of people
+[56:49] able to use that model and then for a few days
+[56:52] After he marched both of them
+[56:54] Complete framework of Pytorch has been created
+[56:56] Okay, so today you have 2 Prime
+[56:59] Box is one way to TensorFlow Plus
+[57:02] Framework That Drives Industry
+[57:04] Used more in applications
+[57:06] And then the second one is your eco system app torch
+[57:11] which is mostly used for research purposes
+[57:14] Now the problem here is that sometimes
+[57:17] You may need the code of one
+[57:22] to convert into something else
+[57:27] ok ok so now this can happen means
+[57:30] Suppose you are reading any discussion paper.
+[57:32] Which is prevented in internal parts and you
+[57:35] He has to be intimate in his company where
+[57:37] But if tensorflow is used otherwise then this type of interface
+[57:40] Convert is a bit difficult so from here
+[57:43] One more thing came here like this drop
+[57:46] Down private air best applications start coming
+[57:50] Whose work was done that you can see on that website
+[57:53] go and
+[57:55] Make you relaxed by connecting with gambling and
+[57:59] Just use the export option and you will get
+[58:02] This and the tension of voting for points also.
+[58:06] Why would code ever give such a
+[58:08] Let me tell you an example and also Google's ML.
+[58:11] Products that work for exams
+[58:13] that apart from this there are also other methods like this
+[58:17] There are products such as Microsoft's
+[58:20] Custom Vijay has arrived, your Apple's Create ML
+[58:24] All these products do the same thing for you.
+[58:27] If yes, then are you interested in this?
+[58:29] It was a powerful big company, they had such
+[58:32] Create frameworks jio head post given deep
+[58:36] Bringing learning research into industry
+[58:40] If the option is ok then this is the third option according to me.
+[58:42] There is a factor behind the success of Dipper Wing.
+[58:46] Which I think is the fourth biggest factor
+[58:48] That's that planning architectures okay
+[58:52] Now what is deep learning architecture
+[58:55] The problem is a little difficult in the first activation.
+[58:57] But I still try, so I did.
+[58:59] A little while ago you got a lamp on a decision
+[59:02] Enrolled was shown and something like this
+[59:05] had the structure of
+[59:08] Something Like This
+[59:12] ok ok it was like that
+[59:16] This is what I was saying that these artificial
+[59:19] if the neural network is ok
+[59:23] that now
+[59:25] a this is man
+[59:27] So it's okay with the booty made by my husband
+[59:30] The first thing is this note, it is called note which
+[59:35] It basically collects all the notes from all the circles.
+[59:38] is a fundamental unit of your n and
+[59:41] This is the second
+[59:43] that they are called vets
+[59:47] that this weight tells which notes
+[59:49] connected to notes ok now
+[59:53] that you can understand both of these in different ways
+[59:55] Can create means a different neural
+[59:57] Network has placements and has a different
+[60:02] Types of like this one connected to but this one
+[60:04] The one is not connected to this one, okay then these
+[60:07] Experiment with combinations of both
+[60:09] By doing this you can create different types of admins.
+[60:12] So what it is is an architecture which
+[60:16] Golden Way of Connecting Notes and
+[60:19] Actress or West Simrely This is the
+[60:22] Second Architecture It's Physical
+[60:24] Different architecture and different
+[60:26] Would architecture have been different in this?
+[60:27] There may be different moods like the chest is different
+[60:32] Type note here like perceptron
+[60:34] There is another twist there, Aryan.
+[60:37] There are some more twists in it, ok, similar.
+[60:39] Weights can also be connected in different ways
+[60:42] So depending on the problem you can
+[60:44] create different
+[60:46] Neural Network Architecture
+[60:49] A Fixed now which architecture is the most
+[60:52] You need to know what will work well
+[60:56] You will have to experiment and see by running.
+[60:59] The sum will have to be reduced so the experiment will be reduced
+[61:01] It will take you time to do this and you will need to press F4.
+[61:04] Or in certain cases money will also be charged
+[61:09] Architecture is a bit of a difficult task.
+[61:12] It's best to fry but what can you do?
+[61:16] Maybe you have a second option that
+[61:17] you need something existing
+[61:20] The architecture that is already available
+[61:23] What did research do to some big problems?
+[61:26] Above Falguni Some Neural Networks Some
+[61:29] maintain the architecture in it and
+[61:32] I have also trained on the data set, okay?
+[61:36] Have trained on them too, so basically
+[61:38] ready ready to use
+[61:40] I just love you so much hotter than you
+[61:42] download the architecture file
+[61:45] And apply fear on your problem
+[61:48] If you give it then it's ok to transfer it to the answer.
+[61:50] It is called learning which is done in great detail.
+[61:52] I will read further but understand this point like this
+[61:55] That
+[61:56] Different ways of what is architecture?
+[61:58] Now which one to create a neural network from?
+[62:02] To know the base architecture you need to
+[62:04] Will have to experiment in this dress
+[62:06] Time will go away, money will go away, this will
+[62:08] To avoid this, you should research S's existence.
+[62:11] You can use architecture which is already
+[62:14] Train is on data from square ready-to-use
+[62:18] Meaning you can download it directly
+[62:20] Apply it to your problem and
+[62:22] The answer is that it is okay to fight transfer.
+[62:24] Which is very important in your stomach in the industry?
+[62:26] It is being used now because of this
+[62:28] Context that you others' architecture
+[62:30] You can use a math boost that is deep.
+[62:33] Today's rate in Learning Care Option
+[62:35] If I want to solve a problem
+[62:38] I don't want to sit down and do my thing.
+[62:41] Have to say that you architecture correctly
+[62:44] Make Radhe writing that state-of-the-art
+[62:47] Architecture That's Already
+[62:51] The best means the best actress is in
+[62:55] Certain cases reach Congress level
+[62:57] If crossed then the items are used.
+[63:01] According to these questions, some of these
+[63:03] Also heard the name of existing architecture
+[63:05] When I tell you different things that I have done so far
+[63:07] Tell me how you can do image classification with this.
+[63:10] are talking
+[63:12] Where the image is classified into one class or another
+[63:15] If you want to divide the class then say graduate
+[63:18] is a very famous neural network if you
+[63:23] Are you talking about text classification or
+[63:25] Then talking about penalty related tasks
+[63:27] If you are very happy then quite famous
+[63:30] Architecture a Transform Great Results
+[63:33] If you have heard about image segmentation
+[63:36] If you are doing then you have the unit
+[63:41] that if you are talking about image translation
+[63:45] yes
+[63:46] then we have a very famous
+[63:48] pix topics
+[63:51] that if you talk about object detection
+[63:53] had been
+[63:55] That you have yo yo yo only people
+[63:58] lineage if you are talking about each generation
+[64:02] So we have the web
+[64:05] So this is all state-of-the-art
+[64:07] Architecture is what researchers spent their time
+[64:11] Trained on data created by investing and
+[64:13] You and your SIM are now ready-to-use.
+[64:16] Do it on your machine and solve these problems
+[64:19] If you want to run on them, then it is okay after their arrival.
+[64:21] Your entire option after the evening is very
+[64:25] Fast because sugar is a little easier
+[64:27] Have you done that hard work already?
+[64:30] Granted, whatever we have to do is okay, now this is mine
+[64:33] According to him, it is the fourth region if you ask them.
+[64:36] What is the final result then Ayush
+[64:38] sector number phase paper or you
+[64:43] can you speak community
+[64:45] 102 All this would not be possible if
+[64:48] Some people are very passionate about deep learning.
+[64:52] Had we not entered the field of deep learning
+[64:55] The history is very interesting
+[64:56] People have been working since 1968 but
+[64:59] Failed Multiple Times and 2011 Care End
+[65:03] Ultimately successful are those who
+[65:06] Research done
+[65:08] Are or who are involved in deep learning in your company?
+[65:11] Engineered matter plays like us
+[65:14] Teachers' God Tomatoes like you
+[65:17] Students became candle like community.
+[65:20] If all these together make deep learning
+[65:24] Technology has advanced, okay so I
+[65:26] According to this, number one is not set at number five.
+[65:29] But it should be but it is a bit non technical
+[65:31] Reasons so I have kept it a little separate but yes
+[65:34] People Have Seen the Potential of Deep Learning
+[65:38] Deshnok, what kind of technology is this in the future?
+[65:41] The drama will change the world for that already changed
+[65:43] If so, then invest your time in it.
+[65:46] Do it, maybe that's why you are also reading, okay?
+[65:48] So people for me is the first creation and
+[65:51] One of the most important reasons due to which
+[65:54] In today's date, deep learning is
+[65:58] If you want therapy then you should like this video.
+[66:02] Looks like I said a little too much
+[66:03] A little explanation was given that he was wandering in these.
+[66:07] It happened because I did everything right
+[66:09] I also wanted to read so I guess
+[66:11] 40 50 minute video would have been done but if
+[66:14] If you look till here then mango powder is nothing to you.
+[66:17] Helped at some level, so if you are worried
+[66:20] If you like the video guys please like it
+[66:22] I'll probably say this at the end of every video
+[66:25] you because I've seen it on my own
+[66:28] The videos on the channel which have a lot of
+[66:30] Likes have come on those videos also.
+[66:33] If you have come more then YouTube is my contact
+[66:35] Pushes if you tell YouTube
+[66:38] That the contact is good please request that
+[66:41] If you like this contest please
+[66:43] Like it if you share your skills
+[66:47] A friend of yours is repairing and Dashrath
+[66:51] Samadhi side we next after two days
+[66:53] let's meet for the topic
+[66:55] understand by

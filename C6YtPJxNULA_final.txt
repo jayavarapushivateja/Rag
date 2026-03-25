@@ -1,0 +1,361 @@
+=== CodeWithHarry — All About ML & Deep Learning — https://youtube.com/watch?v=C6YtPJxNULA ===
+
+[0:00] So in today's video we will talk about what is machine learning and why you should be focusing on machine learning and AI in 2024.
+[0:06] In today's date, where everyone says that AI and machine learning will take away the jobs of all the developers who were working hard to make software,
+[0:13] my opinion is a little different here.
+[0:15] I will say who will take away the jobs, not AI.
+[0:18] The person who will learn to learn AI and machine learning tools will take away.
+[0:21] Because once a person has learned to learn AI and machine learning tools because once a person learn AI and machine learning tools it will be very easy for him
+[0:26] to do those things
+[0:28] which a normal software developer
+[0:30] does with a lot of hard work
+[0:32] and in this way your smart work will be useful
+[0:34] that what are you doing
+[0:36] what are you learning
+[0:38] there was a way to do a task in 10 minutes
+[0:40] you made it in an hour
+[0:42] you are doing it with that classical approach
+[0:44] then the person who is doing approach so that person will replace you
+[0:46] who is doing it in 10 minutes
+[0:48] and today I will talk about what is machine learning
+[0:50] what is AI
+[0:52] how you can learn AI and machine learning
+[0:54] and we will talk about some modern tools
+[0:56] which you should use
+[0:58] if you want to focus on machine learning and artificial intelligence
+[1:00] in 2024
+[1:02] and you want to give a boost to your career
+[1:04] and this may sound a little bad but I will say you want to give a boost to your career and it might sound bad but i will say
+[1:06] you want to save your career. What is machine learning?
+[1:09] Machine learning is a process of training an algorithm on data
+[1:12] What does it mean? You have a lot of data
+[1:15] Let's say you have 3 billion data points
+[1:18] and now you want that you
+[1:21] can predict about new data points
+[1:24] by looking at 3 billion data points.
+[1:26] Now let us say I have data that how fast was the wind
+[1:29] I have data that how much was the precipitation, how much was the humidity
+[1:32] and what was the temperature that day and I have to predict
+[1:35] whether it is going to rain or not.
+[1:38] I can do this using machine learning algorithms.
+[1:41] How will I do prediction? I will do it
+[1:44] by showing that old data to a machine learning algorithm
+[1:46] so i will say when the precipitation was this much
+[1:49] and humidity was this much and temperature was this much then it rained
+[1:52] when the precipitation, humidity and temperature was this much then it didn't rain
+[1:55] when i will give a new value that today's precipitation, humidity
+[1:58] and temperature is this much then it will tell me
+[2:01] that according to this value today it is not going to rain
+[2:04] and today it is going to rain, today it is going to rain
+[2:06] will it be true? no, it will be a prediction
+[2:09] so what machine learning and AI does is predictions
+[2:12] I have talked about a very simple prediction
+[2:15] but if you take this thing to the next level
+[2:18] through deep learning, if you train complex algorithms
+[2:21] then it is seen there
+[2:24] that by training complex algorithms
+[2:26] this process becomes so dangerous
+[2:28] that humans also get amazed
+[2:30] chart gpt is a classic example of this
+[2:32] chart gpt is not a pure machine learning model
+[2:34] chart gpt
+[2:36] gives you some layer of abstraction
+[2:38] on machine learning
+[2:40] that means it has some regular rules
+[2:42] some checks
+[2:44] chart gpt is not just a neural network,
+[2:46] let me tell you this too,
+[2:47] so on that neural network,
+[2:49] a little customization is done,
+[2:50] a thing is made,
+[2:52] which blows the mind of a common man,
+[2:55] if you want to learn machine learning,
+[2:57] and want to learn to deploy machine learning models,
+[2:59] because in the industry,
+[3:00] you are not asked the basics,
+[3:02] you will have real world data,
+[3:04] and you will be told, give us some work on this data, give us some insights the basics you will have real world data and you will be asked to work on this data
+[3:06] and give some insights
+[3:08] and make the business profit
+[3:10] and in this situation, it is not necessary
+[3:12] that you know the machine learning algorithm
+[3:14] and this function or not
+[3:16] but there it is necessary
+[3:18] that how long are you doing the implementation
+[3:20] and if you are able to do the implementation well
+[3:22] then you will be very successful
+[3:24] in that job.
+[3:25] Your demand will increase.
+[3:27] You will be recognized as a person who can do 10 hours of work in half an hour with the help of AI tools.
+[3:33] And with the help of such tools, AI models are deployed.
+[3:36] For example, take the example of Amazon SageMaker.
+[3:38] You can build, train, test, and deploy machine learning models using Amazon AWS There are many more things of Amazon AWS that you can use to make your workflow fast
+[3:50] I was looking at some Amazon courses on Skillbuilder
+[3:53] If you don't know what is Skillbuilder, then you should know about Skillbuilder
+[3:56] Because there are many free courses there that will teach you about Generative AI
+[4:00] We will teach you how to use Amazon AWS tools
+[4:03] If you don't have an account on Amazon AWS, then you can always create your own account use Amazon AWS tools if you don't have an account on Amazon AWS
+[4:06] you can always create one
+[4:09] you get 1 year free
+[4:12] at the time of recording this video
+[4:15] Amazon AWS gives you a lot of free tier
+[4:18] to deploy machines
+[4:21] which is actually a lot of help from Amazon
+[4:24] I will show you about Amazon AWS skill builder
+[4:25] and some other Amazon courses
+[4:28] in the computer screen.
+[4:29] If you open this webpage,
+[4:31] which I have also given in the description,
+[4:32] if you see here,
+[4:34] then here is a video of machine learning basics,
+[4:37] which is a revolutionary video, let me tell you.
+[4:39] You guys watch this video,
+[4:40] I watched this video completely
+[4:42] and it was a game changer
+[4:43] because they have to do all this from Amazon AWS
+[4:47] and keeping in mind the aspect of Amazon AWS
+[4:51] which in my opinion is great
+[4:54] because if you are able to do this kind of work
+[4:57] then you are the king of modern generative AI
+[5:00] you don't just have to know about algorithms
+[5:03] you should know how to do these things
+[5:05] and if you have learned to use code whisperer
+[5:08] you have learned to use SageMaker
+[5:10] then with the help of AWS
+[5:13] the things you are able to do
+[5:15] you will be able to do it faster
+[5:17] so if I take you to the skill builder
+[5:20] then you can sign up for it
+[5:22] and there are a lot of free courses here
+[5:23] you can explore them and start taking them.
+[5:26] Create an account on Amazon AWS and start working.
+[5:30] And in the next 1-2 years, the demand for all these things
+[5:32] is going to increase a lot.
+[5:34] And as I told you a while ago,
+[5:36] that AI will not replace you,
+[5:38] you will be replaced by a person who uses AI to conquer,
+[5:43] who will be faster than you because he uses AI
+[5:47] so guys that's why I will put all these resources in the description for you
+[5:51] and you can learn everything by doing it slowly
+[5:54] here Amazon has put free courses for you
+[5:57] with generative AI
+[5:59] how you can use Amazon AWS tools
+[6:02] you will get the link in the description
+[6:04] you all can access the link in the description
+[6:05] All the learning paths
+[6:07] PDFs and all this I will give you in the description
+[6:10] Now we come back to what is machine learning
+[6:13] So by showing the data we can do prediction
+[6:15] With the help of machine learning, I just told you this
+[6:18] But machine learning is of three types
+[6:20] If I talk only about machine learning
+[6:21] Supervised, unsupervised and reinforcement learning
+[6:26] what happens in supervised learning is that you have some input
+[6:29] or multiple output
+[6:32] and you have this kind of organized data
+[6:35] like I told you, based on precipitation, humidity and temperature
+[6:38] we were predicting rain yes or no
+[6:41] if I have this kind of data and I have values of new precipitation, humidity and temperature
+[6:44] then based on that I can find out whether it will rain or not based on that
+[6:47] or if I have some parameters of a person's health parameters
+[6:50] let's say his blood pressure, let's say his blood glucose
+[6:53] along with that, if I have all these things
+[6:56] then I can find out whether he is diabetic or not
+[6:58] if I run it with a machine learning algorithm
+[7:01] then I can get a very good information about the patient
+[7:04] I can get a presumption that he can have diabetes or not
+[7:06] and on the basis of that I can do tests etc.
+[7:08] so it is being used a lot in medical and health care
+[7:12] because generative AI is doing a lot of manual work
+[7:15] so what happens in supervised learning
+[7:17] that the input you have is
+[7:19] output is specified by you that this is the output
+[7:21] in unsupervised learning you have data
+[7:24] and on that data you have to
+[7:26] train an algorithm in such a way
+[7:28] that algorithm tells you
+[7:30] how this data can be organized
+[7:32] for example, I can do clustering
+[7:34] I have a lot of data points and I want to
+[7:36] find out which of these data points
+[7:38] are related to each other
+[7:40] and how much are they related, so I can use
+[7:42] k-means clustering algorithm
+[7:44] or I can use a lot ofans clustering algorithm or I can use many unsupervised algorithms
+[7:47] and do clustering and classify a data in some labels
+[7:52] and I can generate those labels by myself
+[7:54] these things are used a lot in generative AI and NLP
+[7:57] once the data comes from neural network
+[8:00] so in supervised learning, labeled examples are used
+[8:02] and in unsupervised learning, unlabeled examples are used.
+[8:05] Another example of unsupervised learning is credit card fraud detection.
+[8:10] Which credit card fraud or which transaction can be a fraudulent transaction.
+[8:15] Based on which IP is it happening from, where is it happening from, such things will be seen in unsupervised learning.
+[8:21] Then after this, there is another category, reinforcement learning.
+[8:24] What happens in Reinforcement Learning
+[8:26] is that we leave an agent
+[8:28] to collect data.
+[8:30] So what does he do? The agent does trial and error
+[8:32] and on the basis of that trial and error
+[8:34] he gets rewards or he gets a penalty
+[8:36] and what does he do? He maximizes his rewards.
+[8:39] And after that, he only does the work
+[8:41] by which his reward is maximized.
+[8:42] And he himself knows
+[8:44] what work he should do
+[8:45] so that my reward is maximized
+[8:47] Now what is the overall process of running a machine learning algorithm on a data?
+[8:52] What kind of process will you go through if you want to train a model with a machine learning algorithm?
+[8:58] The first step is data collection, in this you collect data
+[9:01] Now if your data is present in any database, then you will pull the data from there and bring it in the desired format
+[9:06] and the second step after data collection
+[9:08] is data pre-processing
+[9:09] in which you will clean up the data
+[9:11] and after cleaning it up
+[9:13] we will bring it in such a format
+[9:15] such that it can be consumed
+[9:16] by a machine learning algorithm
+[9:17] after this comes the model selection
+[9:19] in which you will select a suitable model
+[9:21] or sometimes we use a lot of models
+[9:23] and for this packages like
+[9:24] scikit-le learn, tensorflow,
+[9:26] keras, pytorch, we use all of these
+[9:29] then after this we train our model, this process
+[9:32] sometimes takes a lot of time, sometimes it takes very less time
+[9:35] depending upon which algorithm we are using, how many
+[9:38] data points we have and what kind of data points
+[9:41] sometimes our data points are such big vectors
+[9:44] that even if it is less, it takes a lot of time.
+[9:46] After this, we do testing and evaluation
+[9:48] in which we test our model
+[9:50] and find out how much our model is better
+[9:53] and to make it better
+[9:55] what can we do
+[9:56] we get an accuracy number
+[9:58] and if we can maximize the accuracy
+[9:59] with any other algorithm
+[10:01] then we will do that
+[10:02] after this we do predictions
+[10:04] and after doing predictions we put the model
+[10:06] in production and after that
+[10:08] we keep updating the model
+[10:10] as we get more data
+[10:12] so this process is iterative
+[10:14] and it keeps on repeating
+[10:16] now we have some common metrics
+[10:18] to evaluate machine learning algorithms
+[10:20] like we have a metric
+[10:22] ROC AOC curve, along with that
+[10:24] we have accuracy, precision, recall, F1 score, confusion matrix, mean absolute error, R squared error
+[10:32] Once you know what all these are, you will be able to evaluate your model very closely
+[10:37] And you will be able to find out which model is suitable for you when you want to put your model in industry or production basics always remain the same
+[10:46] but how you are deploying such that your service is not down
+[10:50] you don't get downtime at all
+[10:52] and you get such a managed environment
+[10:54] so that you can retrain your model
+[10:56] you can put it in production
+[10:58] you are not having any problem
+[11:00] and for this, as I told you, you can check out Amazon's tools
+[11:02] I will put all the links in the description.
+[11:05] Now you will say that you have told basic machine learning, but what is AI, what is deep learning, what is generative AI?
+[11:12] Deep learning is to make a neural network that approximates a function.
+[11:17] That function is assumed to fit the data given to us.
+[11:21] And it will also predict the incoming data points
+[11:25] Neural network is a complex function
+[11:28] which is impossible to imagine
+[11:32] and it can approximate a lot of data points
+[11:35] if I say 3x4x7
+[11:37] and 1x2x3
+[11:39] and 4x4x8
+[11:41] then you will understand that it is adding
+[11:43] so function is simple x plus y But sometimes the function is so complex
+[11:46] That you want to make that function
+[11:48] in such a way that
+[11:50] it is sitting very accurately and realistically
+[11:52] on the data
+[11:54] So for this we use deep learning
+[11:56] In which we use artificial neural networks
+[11:58] Artificial neural networks basically
+[12:00] approximate a function
+[12:02] We feed data with it again and again
+[12:04] And minimize the error this process is called training
+[12:06] we have feed forward neural networks
+[12:08] we have backward propagation methods
+[12:10] then there are different types of neural networks
+[12:12] like CNN, convolutional neural network
+[12:15] RNN, recurrent neural network
+[12:16] along with that there are LSTMs
+[12:18] long short term memory neural networks
+[12:20] these are made to solve longer sequences and vanishing gradient problems.
+[12:25] I had made a video long ago in which I talked about vanishing gradient problem.
+[12:29] So you can watch it. I had uploaded those videos of machine learning long ago.
+[12:32] So if you are interested, you can watch them again.
+[12:34] I have explained it in a very classical way on the board.
+[12:37] Then we have auto encoders, GANs, Generative Adversarial Networks.
+[12:42] GAN yes, Generative Adversarial Networks. Which was basically a step towards Generative adversarial networks GAN yes which is basically a step towards
+[12:46] Generative AI
+[12:48] earlier LSTMs were used but since
+[12:50] the time of transformers which is again
+[12:52] a kind of neural network
+[12:54] architecture such that
+[12:56] you can train data on NLP
+[12:58] very easily so you can use it
+[13:00] to arrive at things like chart GPT
+[13:02] but again it's not
+[13:04] that easy
+[13:05] you have to understand the basics
+[13:07] and then you have to see what is the architecture of transformer
+[13:10] what is transformer, what is attention
+[13:12] why it was made, what was the problem in LSTM
+[13:14] that we switched to transformers
+[13:16] and how a transformer's architecture generates new data
+[13:19] by looking at old data
+[13:21] how it is encoded in numbers
+[13:23] all this textual information in numbers
+[13:25] such that it is predicting our next token
+[13:27] now it is not that you should know everything
+[13:29] that you know mathematics
+[13:31] you know loss function
+[13:33] you should know the architecture of python
+[13:37] no, you should learn
+[13:39] you should have information
+[13:41] how your neural network is trained
+[13:43] and after that your work is very simple
+[13:45] use amazon sage maker
+[13:47] use amazon tools
+[13:49] feed the data
+[13:50] there is a thing made for you
+[13:53] such that you can send your model in production as soon as possible
+[13:56] so you will use it
+[13:58] use any new AI tool
+[14:00] use those things that are already available
+[14:02] instead of reinventing the wheel
+[14:04] you will work by yourself
+[14:06] so definitely you will be successful in all these things
+[14:08] so this was some basics of machine learning, AI and deep learning
+[14:13] you want to learn them again
+[14:14] I will put the links of Amazon skill builder in the description
+[14:18] on which you will learn how to use generative AI and Amazon SageMaker
+[14:22] to do the things of generative AI
+[14:24] I will give you all that in the description
+[14:26] I was watching this video of Amazon
+[14:28] and it was really
+[14:30] very helpful for me to be honest
+[14:32] and go to this page and watch these videos
+[14:34] first of all, some basics of
+[14:36] machine learning has been talked about
+[14:38] and how to use Generative AI
+[14:40] and how to use Amazon SageMaker
+[14:42] to do all these things
+[14:44] is told about it so you can check
+[14:46] the resources in the description
+[14:48] I hope you liked this video
+[14:50] what do you have to say?
+[14:52] do you agree with me that AI
+[14:54] will not take the job but
+[14:56] AI tools will take your job
+[14:58] with that said
+[15:00] I hope this video was helpful
+[15:02] thank you so much for watching this video
+[15:04] and I will see you next time
