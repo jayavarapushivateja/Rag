@@ -9,7 +9,7 @@ from transformers import pipeline
 app = FastAPI()
 
 # 🔹 Use correct model type (IMPORTANT)
-polisher = pipeline("text2text-generation", model="google/flan-t5-small")
+polisher = pipeline("text-generation", model="google/flan-t5-small")
 
 # 🔹 video info
 video_info = {
